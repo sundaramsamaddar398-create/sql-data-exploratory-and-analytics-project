@@ -24,7 +24,7 @@ Highlights:
 
 
 -- ---------------------------------------------------------------------------
--- Create Report: gold.report_customers
+-- Create Report: gold_report_customers
 -- ---------------------------------------------------------------------------
 
 -- Deleting the previous view table
