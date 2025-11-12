@@ -1,4 +1,4 @@
-# sql-data-exploratory-and-analytics-project
+# Data Exploratory and Advance Data Analytics Project
 This repository contains a collection of SQL scripts demonstrating various analytical techniques, such as changes over time, cumulative, performance, data segmentation, part-to-whole analysis
 This project is a comprehensive collection of SQL scripts for data exploration, analytics, and reporting. These scripts cover various analyses such as database exploration, measures and metrics, time-based trends, cumulative analytics, segmentation, and more. This repository contains SQL queries designed for data exploration and analysis of the data within a relational database. Each script focuses on a specific analytical theme and demonstrates best practices for SQL queries. 
 The database model used for the base of this project is "data_warehouse" database. You can explore the "data_warehouse" database through another project on my profile. Please click on the link to explore that: https://github.com/sundaramsamaddar398-create/sql-data-warehouse-project ......
